@@ -86,24 +86,25 @@ html{
          font-size: 16px;
      }
     .one2{
-        height: 345px;
+        height: 50vh;
         width: 50%;
         position: relative;
-        top: 137px;
+        top: 110px;
         padding: 38px;
         display: inline-block;
     }
     .one3{
-        height: 345px;
+        height: 50vh;
         width: 50%;
         float: right;
-        margin-top: -226px;
+        margin-top: -269px;
         padding: 38px;
     }
     .one1{
+        height: 50vh;
         padding: 38px;
     }
     .container{
-        margin-top: -60px;
+        margin-top: -110px;
     }
 }  
